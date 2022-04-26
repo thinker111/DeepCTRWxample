@@ -7,4 +7,4 @@ for i in range(1,10):
         print("{}+{}={}\t".format(i,j,i+j),end="")
     print()
 
-print('dev1')
+print('dev2')
